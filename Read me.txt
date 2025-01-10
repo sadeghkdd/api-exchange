@@ -1,0 +1,4 @@
+This tool is designed for changing exchange rates 
+and is very easy to use. You can easily convert 
+currencies by simply selecting the amount, source currency, and destination currency.
+Just run the code.
